@@ -1,7 +1,19 @@
 {
     "name": "潘鑫博客",
-    "short_name": "PX",
+    "short_name": "PX Blog",
+    "display": "standalone",
+    "background_color": "#fff",
+    "start_url": "/",
     "version": "1.0.0",
-    "description": "潘鑫的博客",
-    "manifest_version": 2
+    "description": "潘鑫的博客,分享，学习，新技能get√",
+    "manifest_version": 2,
+    "icons": [{
+      "src": "logo52.png",
+      "sizes": "52x52",
+      "type": "image/png"
+    },{
+       "src": "logo288.png",
+       "sizes": "288x288",
+       "type": "image/png"
+    }]
   }
