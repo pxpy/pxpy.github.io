@@ -12,4 +12,5 @@ Disallow: /libs/
 Disallow: /medias/
 Disallow: /page/
 Disallow: /tags/
+Disallow: /tag/
 Disallow: /categories/
