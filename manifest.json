@@ -5,7 +5,7 @@
     "background_color": "#fff",
     "start_url": "/",
     "version": "1.0.0",
-    "description": "潘鑫的博客,分享，学习，新技能get√",
+    "description": "分享、学习、coding、新技能get√",
     "manifest_version": 2,
     "icons": [{
       "src": "logo52.png",
